@@ -17,6 +17,10 @@ body {
 
 }
 
+p{
+  color: white;
+}
+
 .btn {
   margin: 25px;
   display: inline-block;
